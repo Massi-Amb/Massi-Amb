@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Abdoulaye Massi Bah and I am an ASP.Net Web Application Deleopper.
+My name is Abdoulaye Massi Bah and I am an ASP.Net Web Application Developper student.
 <!--
 **Massi-Amb/Massi-Amb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
